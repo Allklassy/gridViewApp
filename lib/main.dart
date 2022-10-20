@@ -38,6 +38,7 @@ class GridViewApp extends StatelessWidget {
       "assets/images/pic2.jpg",
       "assets/images/pic3.jpg",
       "assets/images/pic1.jpg",
+      
       "assets/images/pic2.jpg",
       "assets/images/pic3.jpg"
     ];
